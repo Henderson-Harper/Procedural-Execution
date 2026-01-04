@@ -17,8 +17,8 @@ When I get around to recording it...
 
 ## Links
 
-[Roblox Link](www.roblox.com/games/125638462450753/Procedural-Execution)
-[Trello](https://trello.com/b/bdeiKNrb/procedural-execution)
+- [Roblox Link](www.roblox.com/games/125638462450753/Procedural-Execution)
+- [Trello](https://trello.com/b/bdeiKNrb/procedural-execution)
 
 ## Acknowledgements
 
