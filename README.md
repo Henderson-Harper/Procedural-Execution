@@ -1,8 +1,8 @@
 
 # Procedural Execution
 
-A Roblox project I made for fun. I decided to post it on GitHub because I spent some time making it.
-ROJO migration will come once I can figure out how to do it.
+A Roblox project I made for fun. I decided to post it on GitHub because I spent some time making it. 
+The game is heavily inspired by CS:GO and Due Process.
 
 ### Features
 - Over 1 billion procedurally generated maps
@@ -10,7 +10,12 @@ ROJO migration will come once I can figure out how to do it.
 
 ### How I made it
 - I started by using the "Laser Tag" template from Roblox Studio
-- Other than the gun system, everything else I made myself
+  - A basic team deathmatch with fixed maps, spawns, and weapon
+- Other than that system, everything else I made myself
+  - Custom loadout system
+  - Custom map generation system
+  - 10 different weapons
+  - 8 different utility items
 ## Demo
 
 When I get around to recording it...
